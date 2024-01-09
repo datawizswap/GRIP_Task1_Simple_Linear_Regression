@@ -1,4 +1,4 @@
-# GRIP_Task1_Simple_Linear_Regression
+# GRIP_Task1
 
 # Simple Linear Regression
 
